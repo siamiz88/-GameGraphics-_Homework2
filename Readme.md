@@ -22,10 +22,10 @@ Problem 2 result: <br/>
 ![](img/hw2-2.jpg)
 
 Problem 3 result: <br/>
-<img src="img/hw2-3.gif" width="100" height="300">
+<img src="img/hw2-3.gif" width="200" height="300">
 
 Problem 4 result: <br/>
-![](img/hw2-4.gif)
+<img src="img/hw2-4.gif" width="200" height="300">
 
 ## Deadline
 * If spring class: 4.24. 23:50
