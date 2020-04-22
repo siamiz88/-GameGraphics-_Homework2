@@ -22,18 +22,17 @@ Problem 2 result: <br/>
 ![](img/hw2-2.jpg)
 
 Problem 3 result: <br/>
-<img src="img/hw2-3.gif" width="200" height="300">
+<img src="img/hw2-3.gif" width="175" height="300">
 
 Problem 4 result: <br/>
-<img src="img/hw2-4.gif" width="200" height="300">
+<img src="img/hw2-4.gif" width="175" height="300">
 
 ## Deadline
-* If spring class: 4.24. 23:50
+* If spring class: 5.15. 23:50
 
 ## Note
-* Q & A: jeunlee0306@khu.ac.kr (이정은)
-* Do not use rotate() function. (e.g. glm:rotate()) 
+* TA: songhs@khu.ac.kr (송현수)
+* Please send your questions to TA first. 
 * OpenGLES uses column major order. 
-* Wrong computed normal leads weird shading (lighting) results. Please look carefully. 
-* https://github.com/bisily/Teapot shows a submission example. 
+* Prepare for a boss homework^^. 
 * Thank you for your star.
