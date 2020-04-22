@@ -15,16 +15,16 @@ The homework 2 tests your understand about rendering pipeline, texture, lighting
 3. Invest your time to achieve the goal!
 
 ## Result
-Problem 1 result:
+Problem 1 result: <br/>
 ![](img/hw2-1.jpg)
 
-Problem 2 result:
+Problem 2 result: <br/>
 ![](img/hw2-2.jpg)
 
-Problem 3 result:
-![](img/hw2-3.gif)
+Problem 3 result: <br/>
+<img src="img/hw2-3.gif" width="100" height="300">
 
-Problem 4 result:
+Problem 4 result: <br/>
 ![](img/hw2-4.gif)
 
 ## Deadline
