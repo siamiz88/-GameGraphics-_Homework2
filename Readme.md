@@ -28,7 +28,7 @@ Problem 4 result: <br/>
 <img src="img/hw2-4.gif" width="175" height="300">
 
 ## Deadline
-* If spring class: 5.15. 23:50
+* If spring class: 5.22. 23:50
 
 ## Note
 * TA: songhs@khu.ac.kr (송현수)
